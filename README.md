@@ -8,7 +8,7 @@
 Bem vindos ao meu Portifólio.
 Aqui vocês encontrarão um projeto responsivo, com paleta de cores cuidadosamente selecionada, tempo e estudo dedicados.
 
-## Ferramentas utilizadas:
+## Tecnologias utilizadas:
 
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 
