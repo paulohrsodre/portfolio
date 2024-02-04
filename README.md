@@ -1,2 +1,3 @@
-# portfolio
-Portifólio desenvolvido com os cursos de HTML e CSS da Alura 
+# Portfolio
+
+## Portifólio desenvolvido com os cursos de HTML e CSS da Alura 
