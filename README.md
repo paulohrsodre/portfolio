@@ -20,5 +20,5 @@ Aqui vocês encontrarão um projeto responsivo, com paleta de cores cuidadosamen
 
 ### Melhorias futuras:
 - Texto para a página "Sobre mim";
-- Manutenção do design rresponsivo;
-- Informações atualizadas para a página currículo.
+- Manutenção do design responsivo;
+- Informações atualizadas para a página "Currículo".
